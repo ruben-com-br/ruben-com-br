@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Python
 
 
-## Oiii! Eu sou a Rúben Borges Ramos
+## Oiii! Eu sou Rúben Borges Ramos
  <div>
   <a href="https://github.com/rubengyn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubengyn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
