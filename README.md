@@ -21,5 +21,6 @@
   <a href="https://www.linkedin.com/in/ruben-com-br/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://stackoverflow.com/users/12226585/ruben-borges-ramos" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
   
- ![snake gif](https://github.com/rubengyn/rubengyn/blob/output/github-contribution-grid-snake.gif)
+
+  ![Snake animation](https://github.com/rubengyn/rubengyn/blob/output/github-contribution-grid-snake.svg)
 </div>
