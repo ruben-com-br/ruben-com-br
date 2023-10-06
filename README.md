@@ -1,9 +1,9 @@
 ## Hello
 
 - 👋 Hi, I’m Ruben Borges Ramos 💻<a href="https://www.ruben.com.br" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a>
-- 👀 I’m interested in Python backend, automation, data analysis
+- 👀 I’m interested in Java, Python, Node and SPA
 - 👨‍🎓 Education: Software Engineering - UFG
-- 🌱 I’m currently learning Java, Javascript, Python
+- 🌱 I’m currently learning Java, JavaScript, Cloud
 
 
 ## Oiii! Eu sou Rúben Borges Ramos
